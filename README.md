@@ -45,7 +45,7 @@ This project demonstrates how to classify natural scenes into six categories usi
 
 ## 🔗 Colab Notebook
 
-[Click here to open the notebook]([https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK](https://colab.research.google.com/drive/1izXz9SAXSq4o8N8JzgigfxoNaPqxUJis?authuser=1#scrollTo=I_msmgwYjF2S))  
+[Click here to open the notebook](https://colab.research.google.com/drive/1izXz9SAXSq4o8N8JzgigfxoNaPqxUJis?authuser=1#scrollTo=I_msmgwYjF2S)  
 
 ---
 
