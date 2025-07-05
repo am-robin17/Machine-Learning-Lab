@@ -42,21 +42,10 @@ This project demonstrates how to classify natural scenes into six categories usi
 
 ---
 
-## 📎 Report
-
-A 5-page PDF report is included in the repository describing:
-- Dataset details
-- Code overview
-- Output results
-- Model performance
-- Screenshots and conclusions
-
----
 
 ## 🔗 Colab Notebook
 
 [Click here to open the notebook](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK)  
-> (Replace this link with your actual shared Colab link)
 
 ---
 
